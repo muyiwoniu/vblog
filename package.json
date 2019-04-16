@@ -2,7 +2,7 @@
     "name": "vblog",
     "version": "1.0.0",
     "description": "A Vue.js project",
-    "author": "辣子鸡 <30425217+GitHub-Laziji@users.noreply.github.com>",
+    "author": "muyiwoniu <46889344+muyiwoniu@users.noreply.github.com>",
     "private": true,
     "scripts": {
         "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --host 0.0.0.0",
@@ -83,7 +83,7 @@
         "vue-template-compiler": "^2.5.2",
         "webpack": "^3.6.0",
         "webpack-bundle-analyzer": "^2.9.0",
-        "webpack-dev-server": "^2.9.1",
+        "webpack-dev-server": "^3.1.11",
         "webpack-merge": "^4.1.0"
     },
     "engines": {
